@@ -1,0 +1,25 @@
+body
+{
+   background-size: cover;
+   color: white;
+}
+.heading
+{
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: bold;
+    width: 99%;
+    word-spacing: 10px;
+    box-shadow: 2px 2px 30px rgb(245, 32, 209);
+}
+.btn-primary:hover
+{
+    background-color: rgb(100, 245, 32);
+}
+.heading2
+{
+    font-size: 15px;
+    font-style: oblique;
+    font-weight: bold;
+    box-shadow: 2px 2px 30px rgb(245, 32, 209);
+}
